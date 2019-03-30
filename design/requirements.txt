@@ -1,19 +1,48 @@
 what i want the codex software to do:
-help me count the hits for units.
-and help me create my army before a game.
-a way to separate the units that we choose so that then we dont have to go through the whole thing. 
+
+1. help me count the hits for units.
+2. help me create my army before a game.
+3. a way to separate the units that we choose so that then we dont have to go through the whole thing. (use created army in a game) 
+4. ability to save army for a future game
 
 how it works:
+
+army builder:
+
 you type in the unit you would like to view and it shows you the stats of that unit.
+you can select it and add it to your army and remove it if you want.
+it can tell us how many points our army is worth
+you can save your army
+
+battle helper - combat resolution:
+
+(load two armies)
+select attacking unit 
+tool shows the unit composition with relevant statistics(to be defined)
+select attacking subunits
+
+for each attacking subunits, 
+browse target unit showing statistics, 
+select target
+
+if you have different types of weapon in your squad, look at the stats of the first weapon that you wish to use and roll
+according to the weapon's rules.
+then roll with the second weapon etc...
+
+choose next attacking subunit (if there is one) -- (target is already selected).
+repeat the steps above.
+
 
 information we need:
-the stats of the unit(weapons damage health abilities etc).
+
+the stats of the unit (weapons damage health abilities etc).
 the name of the unit.
 how many soldiers in the unit.
 
 equipment:
+
 a laptop.
 the software that we need to create our own software.
 a mouse.
 a charger.
-all of the codex or the online codex(new ones).
+all of the codex or the online codex (new ones).
