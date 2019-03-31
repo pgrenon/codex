@@ -1,0 +1,37 @@
+# Army list  for 31.3.2019
+
+PlrBr space marine army
+-----------------------
+
+character
+terminator captain
+
+
+squad 1
+primaris reiver(10 troops)
+18 x 10 = 180 points
+
+squad 2
+primaris intercessor(10 troops)
+20 x 10 = 200 points
+
+squad3
+devastator(5 troops)
+13 x 5 = 65 points
+
+DrdDsdr tyrannids army
+-----------------------
+
+character
+Broodlord
+
+
+squad 1
+genestealer (9 troops)
+
+squad 2
+termagants (16 troops)
+
+squad 2
+termagants (17 troops)
+
